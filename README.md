@@ -16,7 +16,11 @@ This task outlines the use of version control systems to simulate contributions 
 
 ---
 
-## 1. Screenshots of My Contributions
+## 2. Repository Dashboard
+
+![Screenshot of Kingsley's contributions](screenshots/git%20dashboard.png)
+
+## 1. My Contributions
 
 I ran the following git commands to i initialise the repo and added remote origin
 
