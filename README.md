@@ -18,6 +18,38 @@ This task outlines the use of version control systems to simulate contributions 
 
 ## 1. Screenshots of My Contributions
 
+I ran the following git commands to i initialise the repo and added remote origin
+
+**Intialise git repository**
+
+```
+git init
+```
+
+**Add all files to local repository**
+
+```
+git add .
+```
+
+**Commit files to local repository with a commit message**
+
+```
+git commit -m 'initial setup commit and creation of index.html file'
+```
+
+**Added remote origin**
+
+```
+git remote add origin https://github.com/Kingscliq/darei-tom-and-jerry.git
+```
+
+**Push files to remote main branch**
+
+```
+   git push -u origin main
+```
+
 ![Screenshot of Kingsley's contributions](screenshots/kings-contributions.png)
 
 ---
